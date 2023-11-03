@@ -1,0 +1,39 @@
+.welcome-page {
+  text-align: center;
+  padding: 20px;
+}
+
+header {
+  background: #007BFF;
+  color: #fff;
+  padding: 40px;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+header p {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.features {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+}
+
+.feature {
+  flex: 1;
+  text-align: center;
+  padding: 20px;
+}
+
+.feature h2 {
+  font-size: 24px;
+}
+
+.feature p {
+  font-size: 16px;
+}
